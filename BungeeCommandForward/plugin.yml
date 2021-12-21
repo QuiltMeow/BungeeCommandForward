@@ -1,0 +1,6 @@
+name: BungeeCommandForward
+main: ew.sr.x1c.quilt.meow.plugin.bungee.command.forward.Main
+version: 0.02
+author: EW_Quilt
+website: http://www.quilt.idv.tw/
+description: Bungee Command Forward Plugin
